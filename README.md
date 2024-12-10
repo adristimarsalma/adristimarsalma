@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on seed company
+- 🌱 I’m currently learning data and finance
+- 👯 I’m looking to collaborate on your project
+- 🤔 I’m looking for help with understanding how the world works
+- 💬 Ask me about anything
+- 📫 How to reach me: https://www.linkedin.com/in/adristimarsalma/
+- ⚡ Fun fact: i was in a wide field praying eid al-adha and it was so quiet till my alarm rang (and i couldn't turn it off)
+
 <!--
 **adristimarsalma/adristimarsalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
